@@ -19,19 +19,5 @@ public class Conditional01 {
         } else {
             System.out.println("A학점이 아닙니다.");
         }
-
-        int score1 = 60;
-        if (score1 > 60) {
-            System.out.println("합격입니다.");
-        } else {
-            System.out.println("불합격입니다. 다음에 다시 도전하세요");
-        }
-
-        int num = sc.nextInt();
-        if (num / 2 == 1) {
-            System.out.println("홀수");
-        } else {
-            System.out.println("짝수");
-        }
     }
 }
