@@ -2,7 +2,7 @@ package onecheck.ch04;
 
 import java.util.Scanner;
 
-public class ch04_4 {
+public class Ch04_4 {
     public static void main(String[] args) {
         System.out.println("양수를 입력하세요.");
 

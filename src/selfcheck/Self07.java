@@ -1,6 +1,6 @@
 package selfcheck;
 
-public class self07 {
+public class Self07 {
     public static void main(String[] args) {
         Person person = new Person("김길벗", 21);
         person.displayInfo();

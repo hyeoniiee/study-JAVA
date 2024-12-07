@@ -2,7 +2,7 @@ package selfcheck;
 
 import java.util.Scanner;
 
-public class self05 {
+public class Self05 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int balance = 0; // 잔액

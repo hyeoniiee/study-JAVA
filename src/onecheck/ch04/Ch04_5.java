@@ -1,6 +1,6 @@
 package onecheck.ch04;
 
-public class ch04_5 {
+public class Ch04_5 {
     public static void main(String[] args) {
         int input = 1;
         switch(input){

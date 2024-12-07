@@ -1,6 +1,6 @@
 package onecheck.ch05;
 
-public class ch05_5 {
+public class Ch05_5 {
     public static void main(String[] args) {
         for (int i = 0; i < 20; i++) {
             if (i % 2 == 0) {

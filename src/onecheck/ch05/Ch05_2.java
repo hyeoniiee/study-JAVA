@@ -1,6 +1,6 @@
 package onecheck.ch05;
 
-public class ch05_2 {
+public class Ch05_2 {
     public static void main(String[] args) {
         int count = 0; // 실행 횟수를 저장할 변수
         for (int i = 0; i <= 6; i++) {

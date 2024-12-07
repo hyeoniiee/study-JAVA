@@ -1,6 +1,6 @@
 package onecheck.ch05;
 
-public class ch05_3 {
+public class Ch05_3 {
     public static void main(String[] args) {
         /*
         for (int i = 2; i <= 9; i++) {

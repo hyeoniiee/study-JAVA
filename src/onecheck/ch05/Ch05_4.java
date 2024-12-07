@@ -2,7 +2,7 @@ package onecheck.ch05;
 
 import java.util.Scanner;
 
-public class ch05_4 {
+public class Ch05_4 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num;

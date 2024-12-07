@@ -1,6 +1,6 @@
 package onecheck.ch04;
 
-public class ch04_1 {
+public class Ch04_1 {
     public static void main(String[] args) {
         int score1 = 60;
         if (score1 > 60) {

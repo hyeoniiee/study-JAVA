@@ -1,6 +1,6 @@
 package onecheck.ch06;
 
-public class ch06_2 {
+public class Ch06_2 {
     public static void main(String[] args) {
         // 학생 3명의 4과목 점수를 저장하는 이차원 배열 생성
         int[][] scoreArray = {

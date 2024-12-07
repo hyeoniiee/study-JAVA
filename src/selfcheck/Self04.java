@@ -2,7 +2,7 @@ package selfcheck;
 
 import java.util.Scanner;
 
-public class self04 {
+public class Self04 {
     public static void main(String[] args) {
         System.out.print("알파벳 소문자를 입력하세요 : ");
         Scanner sc = new Scanner(System.in);
