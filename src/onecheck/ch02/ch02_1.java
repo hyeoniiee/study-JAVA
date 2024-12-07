@@ -1,4 +1,4 @@
-package onecheck;
+package onecheck.ch02;
 
 import java.io.IOException;
 

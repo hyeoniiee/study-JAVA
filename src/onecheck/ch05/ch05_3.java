@@ -1,4 +1,4 @@
-package onecheck;
+package onecheck.ch05;
 
 public class ch05_3 {
     public static void main(String[] args) {

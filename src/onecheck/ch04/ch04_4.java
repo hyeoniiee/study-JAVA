@@ -1,4 +1,4 @@
-package onecheck;
+package onecheck.ch04;
 
 import java.util.Scanner;
 
