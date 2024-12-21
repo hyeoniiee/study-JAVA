@@ -13,13 +13,10 @@ public class Self12 {
         numbers.add(4);
         numbers.add(5);
         numbers.add(6);
-
         // Predicate 인터페이스로 짝수인지 판별하는 람다식 정의
         Predicate<Integer> isEven = (n) -> n % 2 == 0;
-
         // 짝수만 필터링하고 결과를 담아 출력
         ArrayList<Integer> evenNumbers = filterList(numbers, isEven);
-
         System.out.println("짝수만 필터링한 결과 : " + evenNumbers);
     }
 
